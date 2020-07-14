@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Getting Started PyTorch in Google Colab"
+title: "Getting Started with PyTorch in Google Colab"
 categories: ml
 author:
 - Yi Zhang
 ---
- 
+
 ## [Google Colab](https://research.google.com/colaboratory/faq.html)
 
 Notebooks run by connecting to virtual machines (VM) that have **maximum lifetimes** that can be as much as **12 hours**. Maximum VM lifetime and idle timeout behavior may vary over time, or based on your usage. In Colab
 
 * Connect
 
-  `Coonect to hosted runtime ` vs `Connect to local runtime`
+  `Coonect to hosted runtime` vs `Connect to local runtime`
 
 * `None` vs `GPU` or `TPU`
 
-  `Edit`,  `Notebook settings` , `Hardware accelerator`
+  `Edit`,  `Notebook settings`, `Hardware accelerator`
 
 * `!` command, e.g.,
 
