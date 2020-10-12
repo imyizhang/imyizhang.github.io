@@ -90,7 +90,7 @@ permalink: /about/
 
 ## Publication
 
-**Antiferromagnetic Order in Epitaxial FeSe Films on SrTiO3 **
+**Antiferromagnetic Order in Epitaxial FeSe Films on SrTiO3**
 
 Y. Zhou, L. Miao, P. Wang, F. F. Zhu, W. X. Jiang, S. W. Jiang, Y. Zhang, B. Lei, X. H. Chen, H. F. Ding, Hao Zheng, W. T. Zhang, Jin-feng Jia, Dong Qian, and D. Wu, [Phys. Rev. Lett. **120**, 097001 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.097001).
 
