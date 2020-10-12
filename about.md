@@ -8,7 +8,7 @@ permalink: /about/
 
 * **MSc in Computer Science**, University of Geneva, Switzerland (*09.2019 - present*)
 
-  **Coursework**: 
+  **Coursework**: *[Information Analysis and Processing](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X026?year=2020)*, *[Language Processing](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X028?year=2020)*, *[Metaheuristics for Optimization](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X013?year=2020)*, *[Information Retrieval](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X011)*
 
 * **PhD in Experimental High Energy Physics** (***suspension***), University of California, Riverside, United States (*06.2018 - 09.2019*)
 
@@ -18,15 +18,42 @@ permalink: /about/
 
 
 
+## Certificates
+
+* *[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/3XJYDMJNVJSQ)* offered by DeepLearning.AI on Coursera (*07.2020*)
+* *[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/YWY8UZ9UL9UJ)* offered by DeepLearning.AI on Coursera (*08.2020*)
+* *[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/PMP6KZTUB7TL)* offered by DeepLearning.AI on Coursera (*08.2020*)
+* [](https://www.coursera.org/account/accomplishments/certificate/YWY8UZ9UL9UJ)
+* []() 
+
+
+
+## Experience
+
+* **Researcher in Experimental High Energy Physics** (100%), European Organization for Nuclear Research (CERN), Geneva, Switzerland (*04.2018 - 09.2019*)
+
+  * **CMS Hadron Calorimeter (HCAL)**: During data taking, provided prompt feedback on sub-detector of CMS experiment, HCAL, by visualizing the trigger primitives (TPs) distribution as well as pulse timing in different channels using ROOT (a C++ framework), and interpreting the abnormal. During detector upgrading, studied on the commissioning of upgraded TPs and the impact on HCAL.
+  * **Search for supersymmetry in proton-proton collisions at 13 TeV**: Contributed to estimate the quantum chromodynamics (QCD) multijet contamination (background noise) by implementing a data-driven method called Rebalance-and-Smear.
+
+* **Teaching Assistant** (50%), University of California, Riverside, United States (*09.2016 - 04.2018*)
+
+  Tutored in General Physics Laboratories and instructed in General Physics Discussions.
+
+* **Research Assistant** (100%), National Laboratory of Solid State Microstructures, Nanjing, China (*06.2015 - 06.2016*)
+
+  Worked on projects of nanomaterial growth and spintronics characterization.
+
+
+
 ## Projects
 
 * **Sichuan Xinwang bank Human Activity Recognition (HAR) Algorithm Competition 2020** (*07.2020*):
 
-  Simply interpreted temporal signals collected from accelerometer sensor as pixels of an image, HAR in the challenge thus could be transformed into image classication task. Sticking on the idea, standardized the data by resampling with a fixed number of sampling points, then achieved a baseline with an autoencoder using relatively shallow convolutional neural network. To fix the overfit issue, dropout, weight decay and early stopping methods were employed, finally, the online accuracy was improved up to 75%.
+  Interpreted temporal signals collected from accelerometer sensor as pixels in several channels of an image, HAR in the competition thus could be viewed as an image classication task. Sticking on the idea, standardized the data by resampling with FFT, then achieved a baseline with an autoencoder using relatively shallow convolutional neural network. To alleviate the overfit, dropout, weight decay and early stopping methods were employed, finally, the online accuracy was improved up to 75%.
 
 * **Tencent Advertising Algorithm Competition 2020** (*06.2020*): 
 
-  Interpreted user temporal behaviors (clicking ads) as a sentence, profiling (grouping) users problem in the challenge thus could be considered as a text classication task. Based on the idea, then decreased the dimensionalities of over 3 million (one-hot) into 32 by embedding the ad ids using Word2Vec, consequently, a baseline for the classier with LSTM neural network was realized.
+  Interpreted user temporal behaviors (clicking ads) as a sentence, profiling (grouping) users problem in the competition thus could be considered as a text classication task. Based on the idea, then decreased the dimensionalities of over 3 million (one-hot) into 32 by embedding the ad ids using Word2Vec, consequently, a baseline for the classier with LSTM neural network was realized.
 
 * **Ortografix** (*05.2020 - 06.2020*): 
 
@@ -46,46 +73,7 @@ permalink: /about/
 
 
 
-## Experience
-
-* **Researcher in Experimental High Energy Physics**, European Organization for Nuclear Research (CERN), Geneva, Switzerland (*04.2018 - 09.2019*)
-  * **CMS HCAL**: During the data taking and detector upgrade, provided prompt feedback on sub-detector, HCAL, by visualizing the trigger primitives distribution as well as pulse timing in dierent channels using ROOT (a C++ framework), pointing out and interpreting the abnormal.
-  * **Search for New Physics**: Estimated the QCD background (noise) by implementing a data-driven method called Rebalance-and-Smear.
-
-* **Teaching Assistant**, University of California, Riverside, United States (*09.2016 - 04.2018*)
-
-  Introduced a series of methods to physics experiments design, such as control variate method, helped the undergraduates to exercise the experiments and taught them basic analysis methods, such as error analysis.
-
-* **Research Assistant**, National Laboratory of Solid State Microstructures, Nanjing, China (*08.2014 - 06.2016*)
-
-  Worked on projects of spintronics and materials 
-
-
-
-## Publication
-
-**Antiferromagnetic Order in Epitaxial 𝐅𝐞𝐒𝐞 Films on 𝐒𝐫𝐓𝐢𝐎𝟑 **
-
-Y. Zhou, L. Miao, P. Wang, F. F. Zhu, W. X. Jiang, S. W. Jiang, Y. Zhang, B. Lei, X. H. Chen, H. F. Ding, Hao Zheng, W. T. Zhang, Jin-feng Jia, Dong Qian, and D. Wu, [Phys. Rev. Lett. **120**, 097001 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.097001).
-
-
-
-## Awards
-
-* **Fellowship** offered in University of California, Riverside (*09.2016 - 09.2019*)
-* **Social Responsibility Scholarship** in Nanjing University (*11.2014*)
-* **Award of Excellent, Training Programs of Innovation and Entrepreneurship for Undergraduates** in Nanjing University (*06.2014*)
-* **Third Prize, People’s Scholarship** for three consecutive years in Nanjing University (*2012 - 2014*)
-
-
-
-## Certificates
-
-**[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** by DeepLearning.AI on Coursera
-
-
-
-## Activities
+## Other Activities
 
 * Attended **CMS Data Analysis School ([CMSDAS](https://indico.desy.de/indico/event/19108/)) 2018** in DESY
 * Attended the **Second Computational and Data Science School for HEP ([CoDaS-HEP](https://indico.cern.ch/event/707498/)) 2018** at Princeton University
@@ -96,13 +84,24 @@ Y. Zhou, L. Miao, P. Wang, F. F. Zhu, W. X. Jiang, S. W. Jiang, Y. Zhang, 
 
 * **Programming  languages**: Python, C++, R, SQL, Bash
 
-* **Libraries**: scikit-learn, PyTorch, TensorFlow
+* **Libraries**: PyTorch, scikit-learn, TensorFlow
 
 
 
-## Languages
+## Publication
 
-**Mandarin** (native), **English** (fluent), **French** (beginner)
+**Antiferromagnetic Order in Epitaxial FeSe Films on SrTiO3 **
+
+Y. Zhou, L. Miao, P. Wang, F. F. Zhu, W. X. Jiang, S. W. Jiang, Y. Zhang, B. Lei, X. H. Chen, H. F. Ding, Hao Zheng, W. T. Zhang, Jin-feng Jia, Dong Qian, and D. Wu, [Phys. Rev. Lett. **120**, 097001 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.097001).
+
+
+
+## Awards
+
+* **Fellowships** at University of California, Riverside (*09.2016 - 09.2019*)
+* **Social Responsibility Scholarship** at Nanjing University (*11.2014*)
+* **Award of Excellent, Training Programs of Innovation and Entrepreneurship for Undergraduates** at Nanjing University (*06.2014*)
+* **Third Prize, People’s Scholarship** for three consecutive years at Nanjing University (*2012 - 2014*)
 
 
 
