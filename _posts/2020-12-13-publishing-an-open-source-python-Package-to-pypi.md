@@ -10,7 +10,7 @@ author:
 
 ```bash
 .
-├── pybackground
+└── pybackground
     ├── __init__.py
     └── scheduler.py
 
