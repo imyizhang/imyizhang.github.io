@@ -6,11 +6,11 @@ permalink: /about/
 
 ## Education
 
-* **MSc in Computer Science**, University of Geneva, Switzerland (*09.2019 - present*)
+* **MSc in Computer Science**, University of Geneva, Switzerland (*09.2019 - Present*)
 
-  **Coursework**: *[Information Analysis and Processing](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X026?year=2020)*, *[Language Processing](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X028?year=2020)*, *[Metaheuristics for Optimization](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X013?year=2020)*, *[Information Retrieval](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X011)*
+  **Coursework**: *[Metaheuristics for Optimization](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X013?year=2020)*, *[Information Analysis and Processing](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X026?year=2020)*, *[Information Retrieval](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X011)*, *[Language Processing](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X028?year=2020)*, *[Empirical methods in language processing](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-34C2169?year=2020)*, *[Introduction to Computational Finance](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X030?year=2020)*, *[Multimedia Security and Confidentiality](https://wwwi.unige.ch/cursus/programme-des-cours/web/teachings/details/2020-14X016)*
 
-* **PhD in Experimental High Energy Physics** (***suspension***), University of California, Riverside, United States (*06.2018 - 09.2019*)
+* **PhD in Experimental High Energy Physics** (***Leave***), University of California, Riverside, United States (*06.2018 - 09.2019*)
 
 * **MSc in Physics**, University of California, Riverside, United States (*09.2016 - 06.2018*)
 
@@ -23,6 +23,8 @@ permalink: /about/
 * *[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/3XJYDMJNVJSQ)* offered by DeepLearning.AI on Coursera (*07.2020*)
 * *[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/YWY8UZ9UL9UJ)* offered by DeepLearning.AI on Coursera (*08.2020*)
 * *[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/PMP6KZTUB7TL)* offered by DeepLearning.AI on Coursera (*08.2020*)
+* *[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/KXTVHSQVWF24)* offered by DeepLearning.AI on Coursera (*02.2021*)
+* *[Sequence Models](https://www.coursera.org/account/accomplishments/certificate/DCF2WH2XSQ2C)* offered by DeepLearning.AI on Coursera (*02.2021*)
 
 
 
@@ -31,8 +33,8 @@ permalink: /about/
 
 * **Researcher in Experimental High Energy Physics** (100%), European Organization for Nuclear Research (CERN), Geneva, Switzerland (*04.2018 - 09.2019*)
 
-  * **CMS Hadron Calorimeter (HCAL)**: During data taking, provided prompt feedback on sub-detector of CMS experiment, HCAL, by visualizing the trigger primitives (TPs) distribution as well as pulse timing in different channels using ROOT (a C++ framework), and interpreting the abnormal. During detector upgrading, studied on the commissioning of upgraded TPs and the impact on HCAL.
-  * **Search for supersymmetry in proton-proton collisions at 13 TeV**: Contributed to estimate the quantum chromodynamics (QCD) multijet contamination (background noise) by implementing a data-driven method called Rebalance-and-Smear.
+  * **CMS Hadron Calorimeter (HCAL)**: During data taking, provided prompt feedback on sub-detector of CMS experiment, HCAL, by visualizing the trigger primitives (TPs) distribution as well as pulse timing in different channels using ROOT (a C++ framework), and interpreted the abnormal. During detector upgrading, studied on the commissioning of upgraded TPs and the impact on HCAL.
+  * **Search for supersymmetry in proton-proton collisions at 13 TeV**: Contributed to estimate the quantum chromodynamics (QCD) multijet contamination (background noise) by implementing a data-driven method called Rebalance and Smear.
 
 
 * **Teaching Assistant** (50%), University of California, Riverside, United States (*09.2016 - 04.2018*)
@@ -49,15 +51,15 @@ permalink: /about/
 
 * **Sichuan Xinwang bank Human Activity Recognition (HAR) Algorithm Competition 2020** (*07.2020*):
 
-  Interpreted temporal signals collected from accelerometer sensor as pixels in several channels of an image, HAR in the competition thus could be viewed as an image classication task. Sticking on the idea, standardized the data by resampling with FFT, then achieved a baseline with an autoencoder using relatively shallow convolutional neural network. To alleviate the overfit, dropout, weight decay and early stopping methods were employed, finally, the online accuracy was improved up to 75%.
+  Interpreted temporal signals collected from accelerometer sensor as pixels in different channels of an image, HAR thus could be considered as an image classification task. Sticked on the idea, standardized the data by resampling with FFT, then a baseline was realized with an autoencoder using relatively shallow CNN. To alleviate the overfit, dropout, weight decay and early stopping methods were employed, finally, improved the online accuracy up to 75%. 
 
 * **Tencent Advertising Algorithm Competition 2020** (*06.2020*):
 
-  Interpreted user temporal behaviors (clicking ads) as a sentence, profiling (grouping) users problem in the competition thus could be considered as a text classication task. Based on the idea, then decreased the dimensionalities of over 3 million (one-hot) into 32 by embedding the ad ids using Word2Vec, consequently, a baseline for the classier with LSTM neural network was realized.
+  Interpreted user temporal behaviors (clicking ads) as a sentence, profiling (grouping) users problem thus could be considered as a text classification task. Based on the idea, decreased the dimensions of over 3 million (one-hot) into 32 by embedding the ad ids using Word2Vec, consequently, a baseline for the classier with LSTM network was realized. 
 
 * **Ortografix** (*05.2020 - 06.2020*):
 
-  Transcripted normal English spelling into SoundSpel by implementing a character-level Seq2Seq model with PyTorch as a baseline.  Successfully improved average normalized edit distance (metrics) to over 90% by modifying the PyTorch architecture in the decoder, implementing bidirectional GRU with attention.
+  Transcribed normal English spelling into SoundSpel by implementing a character-level Seq2Seq model with PyTorch. Successfully improved average normalized edit distance (metrics) to over 90% in the test by modifying the architecture in the decoder, implementing bidirectional GRU with attention mechanism. 
 
 * **Driver Workload Prediction** (*06.2020*)
 
@@ -69,7 +71,7 @@ permalink: /about/
 
 * **Multilingual** (*03.2020 - 06.2020*):
 
-  Developed a web interface with Flask and Bootstrap to (mainly) query and modify a MySQL lexical database.
+  Developed a web interface with Flask and Bootstrap to (mainly) query and modify a MySQL multilingual lexical database, where a term is tokenized by rule-based NLP approach.
 
 
 
